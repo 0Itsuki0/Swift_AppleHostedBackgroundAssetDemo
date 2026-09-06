@@ -1,0 +1,17 @@
+[
+  {
+    "type": "directory",
+    "name": "src",
+    "contents": [
+      {
+        "type": "file",
+        "name": "pikachu.jpg"
+      }
+    ]
+  },
+  {
+    "type": "report",
+    "directories": 1,
+    "files": 1
+  }
+]

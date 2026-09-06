@@ -1,0 +1,23 @@
+{
+	"assetPackID": "itsuki.enjoy.BackgroundAssetDemo.asset.1",
+	"downloadPolicy": {
+		"essential": {
+			"installationEventTypes": [
+				"firstInstallation",
+				"subsequentUpdate"
+			]
+		}
+	},
+	"fileSelectors": [
+		{
+			"file": "tree.json"
+		},
+		{
+			"directory": "src"
+		}
+	],
+	"platforms": [
+		"iOS",
+		"macOS"
+	]
+}
