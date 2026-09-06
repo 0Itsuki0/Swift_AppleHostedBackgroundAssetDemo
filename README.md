@@ -6,7 +6,7 @@ This demo includes
 - [A sample Asset pack](./MyAssetPack/) to be used for testing.
 
 
-For more details, please refer to my blog [Swift: Integrate Apple Hosted (Managed) Background Assets]()
+For more details, please refer to my blog [Swift: Integrate Apple Hosted (Managed) Background Assets](https://medium.com/@itsuki.enjoy/swift-integrate-apple-hosted-managed-background-assets-7867175cbe98)
 
 
 https://github.com/user-attachments/assets/7fcf219e-1503-4a55-b00d-8dd39d0e5dc4
