@@ -9,6 +9,9 @@ This demo includes
 For more details, please refer to my blog [Swift: Integrate Apple Hosted (Managed) Background Assets]()
 
 
+https://github.com/user-attachments/assets/7fcf219e-1503-4a55-b00d-8dd39d0e5dc4
+
+
 
 ## Run the Demo
 
